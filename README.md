@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-### 🔭 I’m currently working as a Graduate Software Developer at Cimlogic Ltd
+### 🔭 I’m currently working as a Graduate Software Developer at [Cimlogic Ltd](https://www.cimlogic.co.uk/)
 ### 🌱 I’m currently learning Azure DevOps, vueJS & .NET Core
 
 <!--
