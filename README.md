@@ -1,7 +1,3 @@
-### 👋 Hi there 
-### 🔭 I’m currently working as a Graduate Software Developer at [Cimlogic Ltd](https://www.cimlogic.co.uk/)
-### 🌱 I’m currently learning Azure DevOps, vueJS & .NET Core
-
 ## Hi there, I'm  Brandon 👋
 
 <a href="https://www.linkedin.com/in/brandonjamesparkinson/">
