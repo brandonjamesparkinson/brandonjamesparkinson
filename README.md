@@ -6,7 +6,7 @@
 
 
 ### Software Developer and Tech Enthusiast
-- 🙋‍♂️ I’m currently working as a Graduate Software Developer at [Cimlogic Ltd](https://www.cimlogic.co.uk/)
+- 🙋‍♂️ I’m currently working as a Software Developer at [Cimlogic Ltd](https://www.cimlogic.co.uk/)
 - 💻 Working with C#, .NET, SQL and Azure
 - 🤔 Exploring vueJS, React and Angular and DevOps
 
