@@ -1,4 +1,4 @@
-## Hi there, I'm  Brandon 👋
+## Hi, I'm  Brandon 👋
 
 <a href="https://www.linkedin.com/in/brandonjamesparkinson/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -8,7 +8,7 @@
 ### Software Developer and Tech Enthusiast
 - 🙋‍♂️ I’m currently working as a Software Developer at [Cimlogic Ltd](https://www.cimlogic.co.uk/)
 - 💻 Working with C#, .NET, SQL and Azure
-- 🤔 Exploring vueJS, React and Angular and DevOps
+- 🤔 Exploring Web APIs and .NET 6
 
 
 
