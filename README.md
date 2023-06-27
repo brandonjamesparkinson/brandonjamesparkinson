@@ -5,10 +5,10 @@
 </a>
 
 
-### C# .NET MVC Software Developer
+### Software Developer
 - 🙋‍♂️ I’m currently working as a .NET Software Developer
 - 💻 Working with C#, .NET, MVC, SQL and Azure 
-- 🤔 Exploring Web APIs, .NET 6, Angular and React 
+- 🤔 Exploring Web APIs, .NET , Angular and React 
 
 
 
